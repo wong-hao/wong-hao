@@ -23,6 +23,9 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wong-hao&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wong-hao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wong-hao&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
